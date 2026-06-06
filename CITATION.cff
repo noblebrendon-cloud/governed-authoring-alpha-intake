@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use or reference this public alpha intake spine, please cite it using the metadata from this file.
+title: Governed Authoring Studio Alpha Intake Spine
+authors:
+  - family-names: Coleman
+    given-names: Brendon
+version: 0.1-alpha-intake
+date-released: 2026-06-06
+repository-code: https://github.com/noblebrendon-cloud/governed-authoring-alpha-intake
+abstract: Public proof spine for the Governed Authoring Studio alpha intake process, documenting the intake explanation surface, privacy framing, alpha disclosure, and email-based submission workflow.
